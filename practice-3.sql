@@ -13,3 +13,6 @@
 -- | Beverly                |
 
 
+SELECT neighborhood
+FROM listings
+;
