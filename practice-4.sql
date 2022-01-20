@@ -5,7 +5,7 @@
 -- +----------+
 
 
-SELECT COUNT(id)
+SELECT COUNT(*)
 FROM listings
-WHERE neighborhood="Lincoln Park"
+WHERE neighborhood = "Lincoln Park"
 ;

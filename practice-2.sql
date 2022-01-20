@@ -22,5 +22,5 @@
 
 SELECT url, accommodates
 FROM listings
-WHERE accommodates >= 16
+WHERE accommodates = 16
 ;
